@@ -1,0 +1,2 @@
+# TempSensor
+ A dual ESP32 wireless temperature and humidity monitoring system featuring real-time data transmission from an AHT10 sensor to an OLED display. Includes a built-in web interface for display customization, no configuration pairing, and persistent settings. Perfect for home weather stations, greenhouse monitoring, or anywhere you need wireless environmental data tracking. Fully documented with clear wiring instructions and pre-compiled binaries available.
