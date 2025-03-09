@@ -91,7 +91,7 @@ The project consists of two separate Arduino sketches (because one massive sketc
 
 - **Transmitter**: [TempSensor.ino](./Transmitter/TempSensor.ino) - The one that does the sensing
 - **Receiver**: [TempSensor-RCV.ino](./Receiver/TempSensor-RCV.ino) - The one that does the displaying
-- **Web Interface**: [Webpage.h](./Receiver/Webpage.h) - The surprisingly decent-looking web interface
+- **Web Interface**: [Webpage.h](./Receiver/webpage.h) - The surprisingly decent-looking web interface
 
 ## Future Improvements
 
