@@ -113,3 +113,4 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 - Thanks to the ESP32 and Arduino communities for their excellent documentation
 - Special thanks to all open-source libraries used in this project
+- Hi Mom and Mark! 
